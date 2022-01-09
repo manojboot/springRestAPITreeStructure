@@ -1,0 +1,111 @@
+[
+{
+  "populationList": [
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "NT",
+      "districtDesc": "Nanital",
+      "thesilCode": "NT",
+      "thesilDesc": "Nanital",
+      "population": "150389",
+      "malePopulation": "78365",
+      "femalePopulation": "72024",
+      "houseHold": "31590",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "NTL",
+      "districtDesc": "Nanital",
+      "thesilCode": "HDW",
+      "thesilDesc": "Haldwani",
+      "population": "364,129",
+      "malePopulation": "189,640",
+      "femalePopulation": "174,489",
+      "houseHold": "74,275",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "NTL",
+      "districtDesc": "Nanital",
+      "thesilCode": "RMR",
+      "thesilDesc": "Ramnagar",
+      "population": "153,738",
+      "malePopulation": "78,928",
+      "femalePopulation": "74,810",
+      "houseHold": "29,914",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "NTL",
+      "districtDesc": "Nanital",
+      "thesilCode": "LKO",
+      "thesilDesc": "Lalkuan",
+      "population": "94,724",
+      "malePopulation": "49,676",
+      "femalePopulation": "45,048",
+      "houseHold": "18,915",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "DDN",
+      "districtDesc": "Dehradun",
+      "thesilCode": "DDN",
+      "thesilDesc": "Dehradun",
+      "population": "988,007",
+      "malePopulation": "519,872",
+      "femalePopulation": "468,135",
+      "houseHold": "213,030",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "DDN",
+      "districtDesc": "Dehradun",
+      "thesilCode": "RKSH",
+      "thesilDesc": "Rishikesh",
+      "population": "260,343",
+      "malePopulation": "136,783",
+      "femalePopulation": "123,560",
+      "houseHold": "54,517",
+      "year": "2011"
+    },
+    {
+      "countryCode": "IND",
+      "countryDesc": "India",
+      "stateCode": "UK",
+      "stateDesc": "Uttarakahnd",
+      "districtCode": "DDN",
+      "districtDesc": "Dehradun",
+      "thesilCode": "VKNR",
+      "thesilDesc": "Vikas Nagar",
+      "population": "317,482",
+      "malePopulation": "166,452",
+      "femalePopulation": "151,030",
+      "houseHold": "62,160",
+      "year": "2011"
+    }
+  ]
+}
+]
