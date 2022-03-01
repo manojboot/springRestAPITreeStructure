@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.population.api.PopulationResponse;
 
 
-@RequestMapping("/v1/population/launch")
+@RequestMapping("/v1/population/district/census")
 @RestController
 public class PopulationController {
 
