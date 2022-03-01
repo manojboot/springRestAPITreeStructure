@@ -19,7 +19,7 @@ public class PopulationController {
 
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome to this API";
+		return "Welcome to Jenkins";
 	}
 
 	@GetMapping("/load")
